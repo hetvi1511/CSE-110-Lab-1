@@ -23,7 +23,7 @@ In my free time I enjoy:
 
 I am currently looking for an internship which has the potential to convert to a full-time job after I graduate 🤞.<br/>
 <br/>
-So future employers, this is my [LinkedIn](www.linkedin.com/in/hetvi-gandhi-79b264324) do check it out 😁.<br/>
+So future employers, this is my [LinkedIn](https://www.linkedin.com/in/hetvi-gandhi-79b264324) do check it out 😁.<br/>
 For more info, go to my [goals](#✅-Goals).<br/>
 
 One of my favorite lines of code and in my opinion the best line of code is `print(Hello World!)` 😂.
