@@ -28,7 +28,7 @@ For more info, go to my [goals](#✅-Goals).<br/>
 
 One of my favorite lines of code and in my opinion the best line of code is `print(Hello World!)` 😂.
 
-As a side note, this is me doing something I love and yes I'm aware you cannot see my face but look at the view. (This is me!)[]
+As a side note, this is me doing something I love and yes I'm aware you cannot see my face but look at the view. [This is me!](Thisisme!.png)
 
 ## ✅ Goals<br/>
 
