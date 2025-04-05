@@ -9,7 +9,7 @@ I would call myself a programmer with a passion for building cool things, solvin
 <br/>
 **Totally unrelated… except for the name… and the existential pressure to be wise all the time 😂**<br/>
 <br/>
-As a student at UCSD, I've worked with a range of prgramming languages ranked below in the order of comfortability:
+As a student at UCSD, I've worked with a range of programming languages ranked below in the order of comfortability:
 - C and C++
 - Python
 - Java
