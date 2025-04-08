@@ -26,7 +26,7 @@ I am currently looking for an internship which has the potential to convert to a
 So future employers, this is my [LinkedIn](https://www.linkedin.com/in/hetvi-gandhi-79b264324) do check it out 😁.<br/>
 For more info, go to my [goals](#goals).<br/>
 
-One of my favorite lines of code and in my opinion the best line of code is `print(Hello World!)` 😂.
+One of my favorite lines of code and in my opinion the best line of code is `print("Hello World!")` 😂.
 
 As a side note, this is me doing something I love and yes I'm aware you cannot see my face but look at the view. [This is me!](thisisme.png)
 
